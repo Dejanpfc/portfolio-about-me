@@ -1,0 +1,18 @@
+@media (max-width: 600px) {
+  #omeni {
+    text-align: center;
+    padding-top: 90px;
+  }
+  #usluge .card {
+    margin-bottom: 40px;
+  }
+  #home {
+    padding-top: 55px;
+  }
+  nav {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+  }
+}
